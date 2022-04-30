@@ -88,7 +88,7 @@ $ python app.py
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/hrisikesh-neogi" target="_blank">Hrisikesh Neogi</a>
+Made with :heart: by <a href="https://github.com/hrisikesh-neogi" target="_blank">Hrisikesh Neogi & </a> <a href="https://github.com/PriyaKhushboo" target="_blank">Khushbu Singh </a>
 
 &#xa0;
 
