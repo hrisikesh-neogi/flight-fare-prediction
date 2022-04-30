@@ -48,25 +48,22 @@
 
 Describe your project
 
-## :sparkles: Features ##
+<!-- ## :sparkles: Features ##
 
 :heavy_check_mark: Feature 1;\
 :heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Feature 3; -->
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Python](https://www.python.org/)
+- [Anaconda](https://www.anaconda.com/)
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [anaconda](https://www.anaconda.com/) installed.
 
 ## :checkered_flag: Starting ##
 
